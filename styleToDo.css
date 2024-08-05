@@ -8,7 +8,7 @@
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    background: linear-gradient(#3eafe7, #03394c);
+    background: linear-gradient(#30cfd0, #330867);
     font-family: sans-serif;
   }
   button:hover {
